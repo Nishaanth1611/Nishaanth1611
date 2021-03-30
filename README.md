@@ -30,7 +30,7 @@
 <a href="https://www.facebook.com/nishaanth.nishaanth.7982" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hello" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mr.infatuator" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hello" height="30" width="40" /></a>
 <a href="https://medium.com/@nishtinaa1611" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hello" height="30" width="40" /></a>
-<a href="https://discord.gg/Nishaanthk#6614" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="hello" height="30" width="40" /></a>
+<a href="https://discord.gg/RsNjHAew" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="hello" height="30" width="40" /></a>
 </p>
 
 ## 📧 Also reach me on: nishtinaa1611@gmail.com

@@ -6,4 +6,6 @@
 
 ## Data Science Enthusiast | Cloud Core Practitioner | Python Developer
 
+![Bhavishya's github stats](https://github-readme-stats.vercel.app/api?username=Nishaanth1611&show_icons=true&theme=dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishaanth1611&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

@@ -7,9 +7,9 @@
 <h3><> Preparing to work with real-life problems.</h3>
 
 ## 🤗Loves to:
+<h3>♡ Exploring different things </h3>
 <h3>♡ Facing and Solving errors ;) </h3>
-<h3>♡ Listening to music </h3>
-<h3>♡ Chilling with singing songs </h3>
+<h3>♡ Chilling with listening music and singing songs </h3>
   
 ## ⭐Highlights:
 <h3>• Self-motivating Personality </h3>

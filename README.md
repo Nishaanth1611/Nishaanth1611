@@ -21,23 +21,18 @@
 ## Languages and Tools:
 
 | Python | C++ | C | Java | Javascript | HTML |
-
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
 | Data Analytics | Machine Learning | Django |
-
 | :---: | :---: | :---: |
 
 | Pandas | Sklearn | OpenCV | Matplotlib | Tkinter | Numpy |
-
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
 | Visual Studio Code | GoogleColab | Jupyter Notebook | Github |
-
 | :---: | :---: | :---: | :---: |
 
 | IBM Watson | Google Cloud | AWS | Azure |
-
 | :---: | :---: | :---: | :---: |
 
 <h3 align="left">Also connect with me:</h3>

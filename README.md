@@ -18,25 +18,25 @@
 
 ## 📧 Reach me on: nishtinaa1611@gmail.com
 
-## Languages and Tools:
+## 👨‍💻Languages and 🛠️Tools:
 
-| Python | C++ | C | Java | Javascript | HTML |
-| :---: | :---: | :---: | :---: | :---: | :---: |
+| Python | C++ | C | Java | Javascript | HTML | Flutter |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
-| Data Analytics | Machine Learning | Django |
-| :---: | :---: | :---: |
+| Data Analytics | Machine Learning | Chatbot | Web Development |
+| :---: | :---: | :---: | :---: |
 
-| Pandas | Sklearn | OpenCV | Matplotlib | Tkinter | Numpy |
-| :---: | :---: | :---: | :---: | :---: | :---: |
+| Pandas | Django | Sklearn | OpenCV | Matplotlib | Tkinter | Numpy | Streamlit |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
-| Visual Studio Code | GoogleColab | Jupyter Notebook | Github |
+| Visual Studio Code | Android Studio | GoogleColab | Jupyter Notebook |
 | :---: | :---: | :---: | :---: |
 
 | IBM Watson | Google Cloud | AWS | Azure |
 | :---: | :---: | :---: | :---: |
 
 <h3 align="left">Also connect with me:</h3>
-<p align="left">
+<p align="left">  
 <a href="https://twitter.com/k-nishaanth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hello" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nishaanth-k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hello" height="30" width="40" /></a>
 <a href="https://www.facebook.com/nishaanth.nishaanth.7982" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hello" height="30" width="40" /></a>

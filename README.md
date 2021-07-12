@@ -16,7 +16,7 @@
 <h3>• Innovative mind </h3>
 <h3>• Kind hearted Person </h3>
 
-## 📧 Reach me on: nishtinaa1611@gmail.com
+## 📧 Let's Talk: info@nishaanth.dev
 
 ## 👨‍💻Languages and 🛠️Tools:
 
